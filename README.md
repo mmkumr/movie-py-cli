@@ -22,4 +22,3 @@ Note:- Replace movie name with the movie name you want to search.</br>
 ![Screenshot](https://raw.githubusercontent.com/mmkumr/pictures/master/Screenshot%20from%202019-01-14%2000-06-58.png?token=AQpd0dYEhscNie4SWB9xtEii-PGHq4sWks5cRMAwwA%3D%3D)
 =======
 ![Screenshot](https://raw.githubusercontent.com/mmkumr/pictures/master/Screenshot%20from%202019-01-13%2023-56-32.png?token=AQpd0Y4sMiaii8XsTO6mXzOgDy_SYh63ks5cRL7NwA%3D%3D)
->>>>>>> 359d32710aea08cc6bcaf72658e96d1aa635ca73
